@@ -6,7 +6,7 @@ Sou um profissional focado em resolver problemas e transformar necessidades de n
 
 ### 🔭 O que estou fazendo agora?
 * 🎓 **Estudando:** Formação Profissão: Analista de Dados (EBAC) e graduação em Tecnologia em Banco de Dados (Faculdade Metropolitana).
-* 💼 **Trabalhando:** Atuo com estruturação de projetos institucionais e organização de fluxos de informação na Câmara Municipal de Itapevi.
+* 💼 **Trabalhando:** Atuo com estruturação de projetos institucionais e organização de fluxos de curso e eventos na Câmara Municipal de Itapevi.
 * 🚀 **Desenvolvendo:** Projetos focados em modelagem relacional (SQL) e limpeza/análise exploratória de dados utilizando Python.
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
