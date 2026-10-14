@@ -2,7 +2,7 @@
 
 **Analista de Dados Júnior | Transformando dados brutos em decisões estratégicas**
 
-Sou um profissional focado em resolver problemas e transformar necessidades de negócios em soluções práticas. Com mais de 10 anos de experiência atuando com análise operacional, gestão de processos e consultoria, ajudei pequenas empresas a se destacarem e colaborei com especialistas do ecossistema iFood.**traduzir requisitos complexos em soluções práticas**, unindo visão de negócios, criatividade e precisão técnica.
+Sou um profissional focado em resolver problemas e transformar necessidades de negócios em soluções práticas. Com mais de 10 anos de experiência atuando com análise operacional, gestão de processos e consultoria, ajudei pequenas empresas a se destacarem e colaborei com especialistas do ecossistema iFood. **Traduzir requisitos complexos em soluções práticas**, unindo visão de negócios, criatividade e precisão técnica.
 
 ### 🔭 O que estou fazendo agora?
 * 🎓 **Estudando:** Formação Profissão: Analista de Dados (EBAC) e graduação em Tecnologia em Banco de Dados (Faculdade Metropolitana).
